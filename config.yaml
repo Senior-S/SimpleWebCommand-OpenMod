@@ -1,0 +1,4 @@
+plugin_configuration:
+  url_with_interval: "true"
+  interval: 60
+  interval_urls: "www.google.com/,You can search anything here,www.youtube.com,You can search videos here" #Format url1,description1,url2,description2
